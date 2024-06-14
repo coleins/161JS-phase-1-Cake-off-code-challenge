@@ -1,4 +1,4 @@
-# Flatiron Cake Off
+# Flatiron Cake Off Code Challenge
 
 Today you'll be using a local API to build out the frontend for an app for a new
 show, _Fantastic Flatiron Cake Off_! Bakers submit submit photos of their cakes,
